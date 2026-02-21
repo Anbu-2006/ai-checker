@@ -7,3 +7,4 @@ Release notes and development milestones.
 - [2026-02-21 10:23] perf(tokenizer): accelerate byte-pair encoding tokenization with Rust WASM module
 - [2026-02-21 10:56] feat(highlight): generate sentence-level probability heatmap visualizer
 - [2026-02-21 11:30] feat(api): expose batch text verification endpoint with rate limiting
+- [2026-02-21 12:03] fix(threshold): calibrate classification thresholds against mixed human-AI corpora
