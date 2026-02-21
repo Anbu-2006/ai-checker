@@ -9,3 +9,4 @@ Release notes and development milestones.
 - [2026-02-21 11:30] feat(api): expose batch text verification endpoint with rate limiting
 - [2026-02-21 12:03] fix(threshold): calibrate classification thresholds against mixed human-AI corpora
 - [2026-02-21 12:36] feat(report): export detailed authenticity audit report with confidence intervals
+- [2026-02-21 13:10] style(editor): build rich-text editor with instant per-sentence likelihood shading
