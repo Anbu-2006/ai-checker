@@ -43,3 +43,4 @@ Release notes and development milestones.
 - [2026-02-24 17:05] test(detector): benchmark false positive rate on academic paper samples
 - [2026-02-24 18:56] docs(api): document REST evaluation parameters and scoring rubrics
 - [2026-02-24 20:48] feat(detector): build multi-signal AI text detector combining perplexity and burstiness
+- [2026-02-27 09:34] feat(ngram): implement sliding window n-gram repetition frequency analyzer
