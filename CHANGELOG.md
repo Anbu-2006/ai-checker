@@ -51,3 +51,4 @@ Release notes and development milestones.
 - [2026-02-27 16:51] feat(report): export detailed authenticity audit report with confidence intervals
 - [2026-02-27 18:19] style(editor): build rich-text editor with instant per-sentence likelihood shading
 - [2026-02-27 19:46] test(detector): benchmark false positive rate on academic paper samples
+- [2026-02-27 21:14] docs(api): document REST evaluation parameters and scoring rubrics
