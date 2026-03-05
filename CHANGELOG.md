@@ -74,3 +74,4 @@ Release notes and development milestones.
 - [2026-03-05 09:25] docs(api): document REST evaluation parameters and scoring rubrics
 - [2026-03-05 12:03] feat(detector): build multi-signal AI text detector combining perplexity and burstiness
 - [2026-03-05 14:42] feat(ngram): implement sliding window n-gram repetition frequency analyzer
+- [2026-03-05 17:20] perf(tokenizer): accelerate byte-pair encoding tokenization with Rust WASM module
