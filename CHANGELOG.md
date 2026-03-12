@@ -108,3 +108,4 @@ Release notes and development milestones.
 - [2026-03-12 09:28] feat(highlight): generate sentence-level probability heatmap visualizer
 - [2026-03-12 12:05] feat(api): expose batch text verification endpoint with rate limiting
 - [2026-03-12 14:42] fix(threshold): calibrate classification thresholds against mixed human-AI corpora
+- [2026-03-12 17:20] feat(report): export detailed authenticity audit report with confidence intervals
