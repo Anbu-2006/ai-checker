@@ -112,3 +112,4 @@ Release notes and development milestones.
 - [2026-03-12 19:57] style(editor): build rich-text editor with instant per-sentence likelihood shading
 - [2026-03-13 09:15] test(detector): benchmark false positive rate on academic paper samples
 - [2026-03-13 10:42] docs(api): document REST evaluation parameters and scoring rubrics
+- [2026-03-13 12:09] feat(detector): build multi-signal AI text detector combining perplexity and burstiness
