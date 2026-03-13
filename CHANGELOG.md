@@ -115,3 +115,4 @@ Release notes and development milestones.
 - [2026-03-13 12:09] feat(detector): build multi-signal AI text detector combining perplexity and burstiness
 - [2026-03-13 13:36] feat(ngram): implement sliding window n-gram repetition frequency analyzer
 - [2026-03-13 15:03] perf(tokenizer): accelerate byte-pair encoding tokenization with Rust WASM module
+- [2026-03-13 16:30] feat(highlight): generate sentence-level probability heatmap visualizer
