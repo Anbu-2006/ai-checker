@@ -110,3 +110,4 @@ Release notes and development milestones.
 - [2026-03-12 14:42] fix(threshold): calibrate classification thresholds against mixed human-AI corpora
 - [2026-03-12 17:20] feat(report): export detailed authenticity audit report with confidence intervals
 - [2026-03-12 19:57] style(editor): build rich-text editor with instant per-sentence likelihood shading
+- [2026-03-13 09:15] test(detector): benchmark false positive rate on academic paper samples
