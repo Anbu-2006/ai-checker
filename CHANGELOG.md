@@ -126,3 +126,4 @@ Release notes and development milestones.
 - [2026-03-14 16:02] feat(ngram): implement sliding window n-gram repetition frequency analyzer
 - [2026-03-14 17:42] perf(tokenizer): accelerate byte-pair encoding tokenization with Rust WASM module
 - [2026-03-14 19:22] feat(highlight): generate sentence-level probability heatmap visualizer
+- [2026-03-14 21:02] feat(api): expose batch text verification endpoint with rate limiting
